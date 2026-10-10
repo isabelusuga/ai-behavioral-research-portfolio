@@ -2,6 +2,8 @@
 
 *Isabel Quiceno*
 
+![Portada del artículo](portada.png)
+
 **Tesis.** El RLHF no alinea al modelo con "lo que los humanos quieren", sino con lo que los humanos eligen bajo las condiciones concretas en que juzgan. Esas condiciones (diseño de la tarea, incentivos, cansancio, composición del grupo) producen sesgos sistemáticos que el modelo aprende y explota. Como las condiciones se pueden diseñar, los sesgos también se pueden medir y mitigar.
 
 ## 1. El mecanismo: el juicio humano se convierte en proxy
