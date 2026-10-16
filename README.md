@@ -9,7 +9,7 @@ Este repositorio reúne mi trabajo de análisis aplicado, escrito para que equip
 | Pieza | Descripción | Estado |
 |---|---|---|
 | [Sesgos cognitivos y RLHF](./01-sesgos-cognitivos-rlhf/) | Cómo los sesgos de los anotadores pasan al modelo de recompensa y al comportamiento del modelo, con ocho mitigaciones medibles | Publicado |
-| Mapa de vulnerabilidades comportamentales | Categorías de fallos de comportamiento en LLMs (manipulación psicológica, sesgos implícitos, persuasión no ética, pérdida de alineación) | En preparación |
+| [Mapa de vulnerabilidades comportamentales](./02-mapa-vulnerabilidades/) | Categorías de fallos de comportamiento en LLMs (manipulación psicológica, sesgos, persuasión e integridad de la información, pérdida de alineación), con señales observables, métricas y mitigaciones | Publicado |
 | Informe de Red Teaming | Experimento sobre vulnerabilidades psicológicas en un modelo de lenguaje: metodología, vectores probados, hallazgos y recomendaciones | En preparación |
 | AI UX Benchmark | Propuesta metodológica para medir confianza e interpretabilidad en la interacción humano-IA | En preparación |
 
