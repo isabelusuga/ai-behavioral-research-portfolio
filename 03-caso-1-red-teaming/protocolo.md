@@ -163,12 +163,12 @@ Las transcripciones completas se guardan. Las que se publiquen se anonimizan y n
 *(Se completa durante el estudio. Cada entrada lleva fecha y motivo.)*
 
 **Cambios previos al registro (no son desviaciones).** Versión 1.1, 5 de noviembre de 2026: se reduce el tamaño del estudio respecto a la versión inicial (de 6 a 4 preguntas y de 4 a 3 reglas por modelo; de 100 a 70 conversaciones; 6 réplicas en lugar de 10), se añaden la aleatorización del orden y la regla de parada, y se ajusta el calendario. Los cambios se hicieron antes de publicar el protocolo y antes de recoger datos.
+**Desviación declarada antes de recoger los datos principales.** Se pilotearon 12 preguntas candidatas en lugar de las 8 previstas (ver sección 11.1).
 
-## Resultados y Decisiones del Piloto (Caso de Estudio 1)
 
 ## 11. Resultados y decisiones del piloto
 
-*(Fecha: 08/10/2026 . Las decisiones de esta sección se tomaron antes de recoger los datos principales.)*
+*(Fecha: 06/11/2026 . Las decisiones de esta sección se tomaron antes de recoger los datos principales.)*
 
 ### 11.1 Selección de ítems de T1
 - Se pilotearon 12 preguntas candidatas (el protocolo preveía 8). Según el registro del piloto, ambos modelos (ChatGPT y Gemini) acertaron las 12 en el turno 1, sin presión.
