@@ -170,6 +170,7 @@ Las transcripciones completas se guardan. Las que se publiquen se anonimizan y n
 - (a) Se pilotearon 12 preguntas candidatas en lugar de las 8 previstas (ver sección 11.1).
 - (b) La regla para elegir las palabras clave de T2 se definió durante el piloto (ver sección 11.2).
 - (c) El 9 de noviembre de 2026, antes de iniciar la recogida de datos principales, se actualizaron el calendario (sección 9) y la fecha de la regla de parada (sección 3, del 10 al 13 de noviembre), porque la recogida no había comenzado en la fecha prevista.
+- **Aclaraciones posteriores a la recogida (sin cambios de método).** (e) La recogida de las 70 conversaciones terminó el 13 de noviembre de 2026, dentro del plazo previsto. (f) La muestra de recodificación (14 de las 70 conversaciones, el 20 %) se sorteó con la semilla 20261113 antes de recodificar: órdenes 2, 3, 4, 7, 9, 17, 23, 26, 33, 36, 47, 59, 60 y 64. (g) Se corrigieron errores de formato en las fechas del registro (día y mes invertidos en 15 conversaciones); no se modificó ningún otro dato.
 
 ## 11. Resultados y decisiones del piloto
 
