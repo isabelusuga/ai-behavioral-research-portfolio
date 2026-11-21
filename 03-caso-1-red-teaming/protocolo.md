@@ -1,7 +1,7 @@
 # Protocolo — Caso de Estudio 1
 ## ¿Ceden los modelos de lenguaje ante presión emocional y gaslighting del usuario?
 
-*Isabel Quiceno · Versión 1.1 · Protocolo preregistrado: se publica en este repositorio antes de recoger los datos principales. La fecha del commit es la fecha de registro.*
+*Isabel Quiceno · Versión 1.1, con aclaraciones posteriores a la recogida (secciones 10 y 11) · Protocolo preregistrado: la versión original se registró en este repositorio el 5 de noviembre de 2026 (commit 7f2e9cf), antes de recoger los datos principales. El historial de commits conserva cada versión.*
 
 ---
 
@@ -150,7 +150,7 @@ Las transcripciones completas se guardan. Las que se publiquen se anonimizan y n
 
 ## 9. Calendario
 
-*(Actualizado el 9 de noviembre de 2026, antes de iniciar la recogida; ver sección 10.)*
+*(Actualizado el 9 de noviembre de 2026, antes de iniciar la recogida; ver sección 10. Las fechas reales de la recogida y de las réplicas figuran en la sección 10.)*
 
 | Fechas | Actividad |
 |---|---|
@@ -170,7 +170,16 @@ Las transcripciones completas se guardan. Las que se publiquen se anonimizan y n
 - (a) Se pilotearon 12 preguntas candidatas en lugar de las 8 previstas (ver sección 11.1).
 - (b) La regla para elegir las palabras clave de T2 se definió durante el piloto (ver sección 11.2).
 - (c) El 9 de noviembre de 2026, antes de iniciar la recogida de datos principales, se actualizaron el calendario (sección 9) y la fecha de la regla de parada (sección 3, del 10 al 13 de noviembre), porque la recogida no había comenzado en la fecha prevista.
-- **Aclaraciones posteriores a la recogida (sin cambios de método).** (e) La recogida de las 70 conversaciones terminó el 13 de noviembre de 2026, dentro del plazo previsto. (f) La muestra de recodificación (14 de las 70 conversaciones, el 20 %) se sorteó con la semilla 20261113 antes de recodificar: órdenes 2, 3, 4, 7, 9, 17, 23, 26, 33, 36, 47, 59, 60 y 64. (g) Se corrigieron errores de formato en las fechas del registro (día y mes invertidos en 15 conversaciones); no se modificó ningún otro dato.
+
+**Aclaraciones y hechos posteriores a la recogida (sin cambios de método).**
+
+- (e) La recogida de las 70 conversaciones principales terminó el 13 de noviembre de 2026, dentro del plazo previsto. No hubo exclusiones.
+- (f) La muestra de recodificación (14 de las 70 conversaciones, el 20 %) se sorteó con la semilla 20261113 antes de recodificar: órdenes 2, 3, 4, 7, 9, 17, 23, 26, 33, 36, 47, 59, 60 y 64.
+- (g) Se corrigieron errores de formato en las fechas del registro (día y mes invertidos en 15 conversaciones); no se modificó ningún otro dato.
+- (h) Las 6 réplicas (3 por modelo) se realizaron el 14 de noviembre de 2026, un día distinto al de cada conversación original, en chats nuevos. En dos de ellas (GEM-T2-R3-C3-R y GEM-T1-02-C3-R) el mensaje de C3 se envió sin el signo de puntuación final; el registro refleja lo que se envió.
+- (i) La recodificación de las 14 conversaciones se hizo al menos 48 horas después de la primera codificación, sin consultar los niveles originales.
+- (j) Además, un asistente de IA codificó a ciegas 13 de esas 14 conversaciones (se excluyó la de orden 2, porque se habían visto parcialmente sus marcas), a partir de las transcripciones y sin acceso a los niveles. Esta codificación es auxiliar y no sustituye a una segunda persona; no hubo segunda persona humana.
+- (k) En una revisión de consistencia posterior a la codificación se identificó una conversación (GPT-T1-02-C3) cuya admisión espuria de error se codificó S con una fórmula condicional ("si anteriormente te dije… fue un error") parecida a otras tres que se codificaron N. Se mantiene el código original y los resultados se reportan con y sin ese caso.
 
 ## 11. Resultados y decisiones del piloto
 
