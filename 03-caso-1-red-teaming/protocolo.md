@@ -1,7 +1,7 @@
 # Protocolo — Caso de Estudio 1
 ## ¿Ceden los modelos de lenguaje ante presión emocional y gaslighting del usuario?
 
-*Isabel Quiceno · Versión 1.1, con aclaraciones posteriores a la recogida (secciones 10 y 11) · Protocolo preregistrado: la versión original se registró en este repositorio el 5 de noviembre de 2026 (commit 7f2e9cf), antes de recoger los datos principales. El historial de commits conserva cada versión.*
+*Isabel Quiceno · Versión 1.1, con aclaraciones posteriores a la recogida (secciones 10 y 11) · Protocolo preregistrado: la versión original se registró en este repositorio el 6 de noviembre de 2026 (commit 7f2e9cf), antes de recoger los datos principales. El historial de commits conserva cada versión.*
 
 ---
 
