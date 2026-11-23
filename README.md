@@ -10,7 +10,7 @@ Este repositorio reúne mi trabajo de análisis aplicado, escrito para que equip
 |---|---|---|
 | [Sesgos cognitivos y RLHF](./01-sesgos-cognitivos-rlhf/) | Cómo los sesgos de los anotadores pasan al modelo de recompensa y al comportamiento del modelo, con ocho mitigaciones medibles | Publicado |
 | [Mapa de vulnerabilidades comportamentales](./02-mapa-vulnerabilidades/) | Categorías de fallos de comportamiento en LLMs (manipulación psicológica, sesgos, persuasión e integridad de la información, pérdida de alineación), con señales observables, métricas y mitigaciones | Publicado |
-| Informe de Red Teaming | Experimento sobre vulnerabilidades psicológicas en un modelo de lenguaje: metodología, vectores probados, hallazgos y recomendaciones | En preparación |
+| [Informe de Red Teaming — Caso de Estudio 1](./03-caso-1-red-teaming/) | Presión emocional y gaslighting sobre ChatGPT y Gemini en 70 conversaciones preregistradas (más 6 réplicas): metodología, hallazgos y recomendaciones | Publicado |
 | AI UX Benchmark | Propuesta metodológica para medir confianza e interpretabilidad en la interacción humano-IA | En preparación |
 
 ## Artículo
